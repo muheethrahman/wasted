@@ -1,0 +1,23 @@
+package com.xworkz.xworkz;
+
+import java.util.Scanner;
+
+import com.xworkz.xworkz.laptop.DellLaptop;
+
+public class LaptopTester {
+public static void main(String[] args) {
+	Scanner scanner = new Scanner(System.in);
+	do {
+		System.out.println("If you want to continue plz press Y or N");
+		String ch=scanner.next();
+		System.out.println("enter the choice");
+		System.out.println("1. Dell 2. HP 3. Lenovo");
+		switch(obj) {
+		case 1:System.out.println("You have selected Dell Laptop");
+		DellLaptop dellLaptop = new DellLaptop(25000.0);
+		
+		}
+	}while();
+	
+}
+}

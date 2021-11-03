@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Lenovo Ideapad 310\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2371310156.index
+\songs\src\main\java
+C:\Users\Lenovo Ideapad 310\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2750104066.index
+\client-register\src\main\java

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;OverrideUsingHashCodeAndToString.java&apos; to &apos;Insurance&apos;" description="Move &apos;OverrideUsingHashCodeAndToString.java&apos; to &apos;Insurance&apos;" destination="src/com/xworkz/xworkzapp/Insurance" element1="src/OverrideUsingHashCodeAndToString.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1614228804657" updateReferences="true"/>
+</session>

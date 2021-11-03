@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;task/src/com/xworkz/xworkzapp/count.java&apos; to &apos;Upper.java&apos;" description="Rename resource &apos;count.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/xworkz/xworkzapp/count.java" name="Upper.java" stamp="1613629112348" updateReferences="true"/>
+</session>

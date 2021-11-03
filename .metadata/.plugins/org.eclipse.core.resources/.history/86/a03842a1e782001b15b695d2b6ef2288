@@ -1,0 +1,9 @@
+package com.xworkz.execption;
+
+public class ExecptionEvent {
+
+	public ExecptionEvent() {
+System.out.println("ExecptionEvent Object Generated");
+	}
+
+}

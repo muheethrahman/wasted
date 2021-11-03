@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;StudentDto.java&apos; to &apos;studentDTO&apos;" description="Move &apos;StudentDto.java&apos; to &apos;studentDTO&apos;" destination="src/student/com/xworkz/xworkzapp/studentDTO" element1="src/student/com/xworkz/xworkzapp/studentdDAO/StudentDto.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1615213642609" updateReferences="true"/>
+</session>

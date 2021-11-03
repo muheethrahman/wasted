@@ -1,0 +1,9 @@
+package com.xworkz.xworkz;
+
+import com.xworkz.xworkz.laptop.DellLaptop;
+
+public class LaptopTester {
+public static void main(String[] args) {
+	DellLaptop dellLaptop = new DellLaptop(25000.0);
+}
+}

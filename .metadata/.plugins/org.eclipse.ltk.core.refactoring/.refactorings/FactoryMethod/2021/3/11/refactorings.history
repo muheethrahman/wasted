@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FactoryMethod/src/com/xworkz/xworkz/Laptop&apos; to &apos;laptop&apos;" description="Rename resource &apos;Laptop&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/xworkz/xworkz/Laptop" name="laptop" stamp="1615376280253" updateReferences="true"/>
+</session>

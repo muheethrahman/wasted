@@ -1,0 +1,15 @@
+package laptop;
+
+public class Laptop {
+
+private String comName;
+private String modelName;
+private String color;
+public void switchOn() {
+	
+}
+public void switchOff() {
+	
+}
+
+}

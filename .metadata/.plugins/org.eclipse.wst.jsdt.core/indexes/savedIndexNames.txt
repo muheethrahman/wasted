@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\Lenovo Ideapad 310\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1616994584.index
+3057659817.index
+2282800077.index
+4216965276.index
+2065662322.index
+1660396331.index
+3803980748.index
+4096505873.index
+3390307086.index

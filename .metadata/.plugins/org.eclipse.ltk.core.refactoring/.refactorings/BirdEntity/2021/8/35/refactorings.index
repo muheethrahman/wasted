@@ -1,0 +1,3 @@
+1629983006849	Rename resource 'com.xworkz.birdsEntity'
+1629983069704	Move 'BirdEntity.java' to 'birdsEntity'
+1629984767612	Move 'BirdsDao.java' to 'birdsDao'

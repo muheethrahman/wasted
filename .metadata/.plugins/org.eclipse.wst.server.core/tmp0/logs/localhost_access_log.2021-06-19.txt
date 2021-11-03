@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Jun/2021:20:06:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:20:06:24 +0530] "GET /client-register/ HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:20:06:26 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:20:06:42 +0530] "GET /client-register/register?userName=muheeth78&mobileno=07676416332&age=45&email=muheeth78%40gmail.com&submit=Submit HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:20:06:47 +0530] "GET /client-register/register?userName=muheeth78&mobileno=07676416332&age=45&email=muheeth78%40gmail.com&submit=Submit HTTP/1.1" 200 18

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;AirBookDTO.java&apos; to &apos;xworkzApp&apos;" description="Move &apos;AirBookDTO.java&apos; to &apos;xworkzApp&apos;" destination="src/com/xwork/xworkzApp" element1="src/AirBookDTO.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1613706089845" updateReferences="true"/>
+</session>

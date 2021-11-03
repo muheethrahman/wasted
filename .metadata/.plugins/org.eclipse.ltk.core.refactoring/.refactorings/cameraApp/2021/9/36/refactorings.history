@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;CameraEntity.java&apos; to &apos;entity&apos;" description="Move &apos;CameraEntity.java&apos; to &apos;entity&apos;" destination="src/main/java/com/xworkz/camera/entity" element1="src/main/java/com/xworkz/camera/designPattern/CameraEntity.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1630546582854" updateReferences="true"/>
+</session>

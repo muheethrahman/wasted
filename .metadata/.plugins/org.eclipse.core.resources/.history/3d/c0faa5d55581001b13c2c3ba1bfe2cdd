@@ -1,0 +1,8 @@
+package laptop;
+
+public class Laptop {
+
+private String comName;
+private String modelName;
+
+}
